@@ -1,0 +1,41 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%
+   
+
+    
+}
+
+.container {
+    width:100%;
+    margin: 0 auto;
+    clear: both;
+}
+p { 
+    border-right: 1px solid black;
+    padding-right: 4px;
+}
+
+p { 
+    font-family: raleway;
+    font-weight: bold;
+    display: inline-block;
+        
+    
+
+}
+
+
+
+#masthead{
+   
+    z-index:99;
+    width:100%;
+    margin: 0 1.66%;
+    overflow: auto;
+    border-bottom: 1px solid black;
+
+    
+}
+
